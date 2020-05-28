@@ -1,4 +1,8 @@
 One more file is added and texting 
 *
+<<<<<<< HEAD
 
 Testing line 1 for merge scenario
+=======
+testing line 1 from main reposiory to check the merge scenario
+>>>>>>> ac72545369114d279eb125c2c554cd8f8043648c
